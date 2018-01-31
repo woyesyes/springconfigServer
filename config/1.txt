@@ -1,2 +1,2 @@
 name=zoujun
-password=psd
+password=psd1
